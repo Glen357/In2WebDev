@@ -7,11 +7,12 @@
 
   .shadow {
     width: 50%;
-    height: 45vh;
+    height: auto;
     background-color: none;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
     padding: 20px;
   }
+
   .ContentContainer {
     text-align: left;
     display: grid;
@@ -43,7 +44,7 @@
   .contentComponent1Image,
   .contentComponent2Image,
   .contentComponent3Image,
-  .contentComponent4Image { 
+  .contentComponent4Image {
     max-width: 100%;
     margin: auto;
     align-items: center;
@@ -52,7 +53,8 @@
   .contentComponent1Image img,
   .contentComponent2Image img,
   .contentComponent3Image img,
-  .contentComponent4Image img { /*this makes the image responsive*/ 
+  .contentComponent4Image img {
+    /*this makes the image responsive*/
     max-width: 100%;
     height: auto;
   }

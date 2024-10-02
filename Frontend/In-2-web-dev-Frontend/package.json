@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "dompurify": "^3.1.5",
+    "in-2-web-dev-frontend": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.24.0"

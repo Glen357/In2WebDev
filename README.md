@@ -1,4 +1,5 @@
 In2WebDev
+
 In2WebDev is a project I built as a portfolio to showcase my web development skills and offer website building and maintenance services. This site serves as both a personal portfolio and a potential platform to attract freelance work for small web applications.
 This App has been deployed using Azure Static Web app. This was pure to explore how to do this, and I have since removed it to complete the build before actual deployment.
 
